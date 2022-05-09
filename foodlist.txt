@@ -1,0 +1,55 @@
+<html><head>
+    <link rel="stylesheet" href="style4.css">
+</head>
+<body><div class="container">
+    <div class="menu">
+<p class="sub">Sushi</p>
+<p><i>finent Fish and veggies</i></p>
+<p class="demo"><number>$22.99</number></p>
+</div>
+<div class="action">
+      <span >Amount</span>
+        <span class="sam">1</span>
+        <div class="super">
+          <br> <input type="button" value="+Add">
+       </div>
+    </div>
+<div class="menu">
+        <p class="sub">Schnitzel</p>
+        <p><i>A german speciality!</i></p>
+        <p class="demo"><number>$16.50</number></p>
+        </div>
+        <div class="action">
+            <span>Amount</span>
+            <span class="sam"  style.border:" 1px solid black"  width:"5px" height:"3px" >1</span>
+            <div class="super">
+            <br> <input type="button" value="+Add">
+         </div>
+        </div>
+     <div class="menu">
+            <p class="sub">Barbecue Burger</p>
+            <p><i>American,raw,meatly</i></p>
+            <p class="demo"><number>$22.99</number></p>
+            </div>
+            <div class="action">
+                <span class="">Amount</span>
+                <span class="sam">1</span>
+                    <div class="super">
+                    <br> <input type="button" value="+Add">
+                 </div>
+            </div>
+            <div class="menu">
+                <p class="sub">Green Bowl</n>
+                <p><i>Healthy.....and green....</i></p>
+                <p class="demo"><number>$22.99</number></p>
+                </div>
+                <div class="action">
+                    <span>Amount</span>
+                    <span class="sam">1</span>
+                    <div class="super">
+                    <br> <input type="button" value="+Add">
+                 </div>
+                </div>
+            </div>
+</body>
+</html>

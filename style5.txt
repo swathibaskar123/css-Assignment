@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.card{
+   width: 120px;
+   height: 150px;
+  display: flex;
+ }
+.container{
+border-left: 80px;
+margin-left: 60px;
+padding-top:100px;
+  float: left;
+  flex-direction: row;
+  text-align: center;
+  justify-content: space-between; 
+  transform: translateX(-50%);
+ }
+.sam {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.sample{
+text-align:left;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  font-size: small;
+  font-weight: 100;
+}

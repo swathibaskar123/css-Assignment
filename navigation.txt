@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style1.css">
+    </head>
+    <body>
+        <div>
+            <ul>
+                <li>Home Carnival</li><br><br>
+                <li>Clothing and Accessories</li><br><br>
+                <li>Footwear</li><br><br>
+                <li>Computer,Laptops&Cameras</li><br><br>
+                <li>Watches</li><br><br>
+                <li>Home,Kitchen and Furnishing</li><br><br>
+                <li>Kids,Toys,BabyCare</li>
+            </ul>
+        </div>
+        <div >
+            <img class="imgsub" src="girlreading.jpg" >
+            </div>
+        </body></html>

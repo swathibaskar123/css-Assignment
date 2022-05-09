@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style5.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="card">
+ 
+  <div class="container">
+    <img class="sam" src="Nodejs.jpg"  width="150px"   style="background-color:#ddd;">
+    <h4><b>Node.js Training</b></h4> 
+    <p class="sample">
+      <div>Je m’appelle Jessica. </div>
+      <div> je suis française et j’ai treize ans. </div>
+      <div>  Nice, mais j’habite</div>
+      <div> à Cagnes-Sur-Mer. J’ai deux frères. </div>
+      <div> Le premier s’appelle Thomas, </div></p> 
+  </div>
+<div class="container">
+    <img class="sam" src="Nodejs.jpg"  width="150px"  float: "left">
+    <span><h4><b>Node.js Training</b></h4> </span>
+    <p class"sample">
+      <div>Je m’appelle Jessica. </div>
+      <div> je suis française et j’ai treize ans. </div>
+      <div> Je vais à l’école à Nice, mais j’habite</div>
+      <div> à Cagnes-Sur-Mer. J’ai deux frères. </div>
+      <div> Le premier s’appelle Thomas, </div></p> 
+  </div>
+ <div class="container">
+    <img class="sam" src="Nodejs.jpg"  width="150px"  float: "left">
+  <span><h4><b>Node.js Training</b></h4> </span>
+    <p class="sample">
+      <div>Je m’appelle Jessica. </div>
+      <div> je suis française et j’ai treize ans. </div>
+      <div> Je vais à l’école à Nice, mais j’habite</div>
+      <div> à Cagnes-Sur-Mer. J’ai deux frères. </div>
+      <div> Le premier s’appelle Thomas, </div></p> 
+  </div>
+ 
+  <div class="container">
+    <img class="sam" src="Nodejs.jpg"  width="150px" float: "left">
+    <span><h4><b>Node.js Training</b></h4> </span>
+    <p class="sample"><div>Je m’appelle Jessica. </div>
+      <div> je suis française et j’ai treize ans. </div>
+      <div> Je vais à l’école à Nice, mais j’habite</div>
+      <div> à Cagnes-Sur-Mer. J’ai deux frères. </div>
+      <div> Le premier s’appelle Thomas, </div></p> 
+  </div>
+</div>
+
+</body>
+</html> 

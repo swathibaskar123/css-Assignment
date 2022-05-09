@@ -1,0 +1,19 @@
+<html>
+<head>
+  <link rel="stylesheet" href="style3.css">
+    <h1>Meet The Speakers</h1>
+</head><body>
+ <ul>
+ <center><li><a href="#Net Ninga"> The Net Ninga</a></li>
+        <li><a href="#The Web Wizard">The Web Wizard</a></li>
+        <li><a href="#Captain code">Captain code</a></li>
+        <li><a href="Angular Avenger">Angular Avenger</a></li></center>
+    </ul>
+<div class="sub">
+    <div><h3 class"subgp">The Net Ninja</div>
+    <div>En toute humilité, je suis le ninja du chignon  Le joueur y incarne le ninja Ryu Hayabusa Pour le ninja, invisibilité veut dire agilité.</div><br>
+<div>En toute humilité, je suis le ninja du chignon  Le joueur y incarne le ninja Ryu Hayabusa Pour le ninja, invisibilité veut dire agilité.</div></div>
+</body>
+</html>
+
+

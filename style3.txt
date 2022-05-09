@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+text-align:center;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    padding: 5px;
+    text-align:center;
+    color:blue;
+    text-decoration: none;
+    padding-left: 150px;
+    font-weight: 100rem;
+    font-size: medium;
+     }
+  a:hover {
+    background-color:darkblue;
+     }
+  h1{
+      text-align:center;
+      margin-top:100px;
+      color:grey;
+}
+.sub{
+    margin-left:50px;
+  }
+  h3{
+      color:grey;
+      font-size: large;
+  }

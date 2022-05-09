@@ -1,0 +1,42 @@
+<html>
+    <head>
+
+        <link rel="stylesheet" href="style2.css">
+        <h1></u>ALLBOOKS</u></h1>
+    </head>
+    <body>
+    <div class="box">
+<div> <img src="gresmall.jpg"/>
+<p>IAS MAINs RS150</p>
+</div>
+<div><img src="grammarsmall.jpg" />
+<p>English Rs150</p>
+</div>
+<div> <img src="chemistrysmall.jpg"/>
+<p>Chemistry Rs200</p>
+</div>
+<div>
+<img src="ibpssmall.jpg"/>
+ <p>ibpsRs300</p>
+</div>
+</div>
+<div class="samp">
+            <div>
+    <img src="storysamll.jpg" />
+                    <p>Rs 450</p>
+                </div>
+    <div>
+                    <img src="physicssmall.jpg"/>
+                    <p>Physics Book Rs 250</p>
+                </div>
+                <div>
+                    <img src="last.jpg"/>
+                     <p> Rs 300</p>
+                </div>
+                <div>
+                    <img src="iassmall.jpg"/>
+                    <p>IAS Book Rs200</p>
+                </div> 
+</div> 
+            </body>
+            </html>

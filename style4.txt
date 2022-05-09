@@ -1,0 +1,42 @@
+.sub{
+    margin-left: 10px;
+    padding-top: 10px;
+    }
+    .action{
+        position: relative;
+            top: -100px; 
+            text-align: right;
+            left: -200px;
+        }
+       }
+    input[type=button]
+    {
+        colour:white;
+        background-color: brown;
+        border-radius: 50px;
+        width:70px;
+        height:20px;}
+    .demo{
+        color:brown;
+        font-weight: 100px;
+        font-style:bold;
+        font-size: big; }
+    .sam{
+    border:1px solid black;
+        width:5px;
+        height:2px;
+    }
+    .super{
+    margin-bottom: 10px;
+    }
+ 
+
+
+
+
+    @media only screen and (max-width: 768px) {
+        
+        [class*="col-"] {
+          width: 100%;
+        }
+      }
